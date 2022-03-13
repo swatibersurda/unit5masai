@@ -1,691 +1,174 @@
 {
   "users": [
     {
+      "name": "shivam",
+      "age": "22",
+      "email": "shivambersurda",
+      "department": "",
+      "married": false,
+      "unmarried": false,
+      "unmaried": false,
       "id": 1
     },
     {
-      "name": "",
-      "age": "",
-      "address": "",
+      "name": "shivam",
+      "age": "22",
+      "email": "shivambersurda",
       "department": "",
-      "salary": "",
-      "maritalstuus": "",
+      "married": false,
+      "unmarried": false,
+      "unmaried": false,
       "id": 2
     },
     {
+      "name": "shivam",
+      "age": "22",
+      "email": "shivambersurda",
+      "department": "",
+      "married": false,
+      "unmarried": false,
+      "unmaried": false,
       "id": 3
     },
     {
+      "name": "shivam",
+      "age": "22",
+      "email": "shivambersurda",
+      "department": "",
+      "married": false,
+      "unmarried": false,
+      "unmaried": false,
       "id": 4
     },
     {
+      "name": "sh",
+      "age": "1",
+      "email": "ss",
+      "department": "",
+      "married": false,
+      "unmarried": false,
       "id": 5
     },
     {
-      "name": "swati",
-      "age": "26",
-      "address": "26",
-      "department": "ac",
-      "maritalstuus": {
-        "married": "false",
-        "unmarried": "false"
-      },
+      "name": "sh",
+      "age": "1",
+      "email": "ss",
+      "department": "",
+      "married": false,
+      "unmarried": false,
       "id": 6
     },
     {
-      "name": "swati",
-      "age": "26",
-      "address": "26",
-      "department": "ac",
-      "maritalstuus": {
-        "married": "false",
-        "unmarried": "false"
-      },
+      "name": "sh",
+      "age": "1",
+      "email": "ss",
+      "department": "",
+      "married": false,
+      "unmarried": false,
       "id": 7
     },
     {
-      "name": "swati",
-      "age": "26",
-      "address": "26",
-      "department": "ac",
-      "maritalstuus": {
-        "married": "false",
-        "unmarried": "false"
-      },
+      "name": "sh",
+      "age": "1",
+      "email": "ss",
+      "department": "account",
+      "married": false,
+      "unmarried": false,
       "id": 8
     },
     {
-      "name": "swati",
-      "age": "26",
-      "address": "26",
-      "department": "ac",
-      "maritalstuus": {
-        "married": "false",
-        "unmarried": "false"
-      },
+      "name": "sh",
+      "age": "1",
+      "email": "ss",
+      "department": "account",
+      "married": false,
+      "unmarried": false,
       "id": 9
     },
     {
-      "name": "tanu",
-      "age": "24",
-      "address": "24",
-      "department": "ac",
+      "name": "sh",
+      "age": "1",
+      "email": "ss",
+      "department": "account",
+      "married": false,
+      "unmarried": false,
       "id": 10
     },
     {
-      "name": "khushu",
-      "age": "23",
-      "address": "23",
-      "department": "ac",
-      "maritalstuus": {
-        "married": "false",
-        "unmarried": "false"
-      },
+      "name": "nikki",
+      "age": "25",
+      "email": "nkibersurda",
+      "department": "",
+      "married": false,
+      "unmarried": false,
       "id": 11
     },
-    [
-      {
-        "id": 1
-      },
-      {
-        "name": "",
-        "age": "",
-        "address": "",
-        "department": "",
-        "salary": "",
-        "maritalstuus": "",
-        "id": 2
-      },
-      {
-        "id": 3
-      },
-      {
-        "id": 4
-      },
-      {
-        "id": 5
-      },
-      {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 6
-      },
-      {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 7
-      },
-      {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 8
-      },
-      {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 9
-      },
-      {
-        "name": "tanu",
-        "age": "24",
-        "address": "24",
-        "department": "ac",
-        "id": 10
-      },
-      {
-        "name": "khushu",
-        "age": "23",
-        "address": "23",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 11
-      }
-    ],
-    [
-      {
-        "id": 1
-      },
-      {
-        "name": "",
-        "age": "",
-        "address": "",
-        "department": "",
-        "salary": "",
-        "maritalstuus": "",
-        "id": 2
-      },
-      {
-        "id": 3
-      },
-      {
-        "id": 4
-      },
-      {
-        "id": 5
-      },
-      {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 6
-      },
-      {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 7
-      },
-      {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 8
-      },
-      {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 9
-      },
-      {
-        "name": "tanu",
-        "age": "24",
-        "address": "24",
-        "department": "ac",
-        "id": 10
-      },
-      {
-        "name": "khushu",
-        "age": "23",
-        "address": "23",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 11
-      },
-      [
-        {
-          "id": 1
-        },
-        {
-          "name": "",
-          "age": "",
-          "address": "",
-          "department": "",
-          "salary": "",
-          "maritalstuus": "",
-          "id": 2
-        },
-        {
-          "id": 3
-        },
-        {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 6
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 7
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 8
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 9
-        },
-        {
-          "name": "tanu",
-          "age": "24",
-          "address": "24",
-          "department": "ac",
-          "id": 10
-        },
-        {
-          "name": "khushu",
-          "age": "23",
-          "address": "23",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 11
-        }
-      ]
-    ],
     {
-      "0": {
-        "id": 1
-      },
-      "1": {
-        "name": "",
-        "age": "",
-        "address": "",
-        "department": "",
-        "salary": "",
-        "maritalstuus": "",
-        "id": 2
-      },
-      "2": {
-        "id": 3
-      },
-      "3": {
-        "id": 4
-      },
-      "4": {
-        "id": 5
-      },
-      "5": {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 6
-      },
-      "6": {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 7
-      },
-      "7": {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 8
-      },
-      "8": {
-        "name": "swati",
-        "age": "26",
-        "address": "26",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 9
-      },
-      "9": {
-        "name": "tanu",
-        "age": "24",
-        "address": "24",
-        "department": "ac",
-        "id": 10
-      },
-      "10": {
-        "name": "khushu",
-        "age": "23",
-        "address": "23",
-        "department": "ac",
-        "maritalstuus": {
-          "married": "false",
-          "unmarried": "false"
-        },
-        "id": 11
-      },
-      "11": [
-        {
-          "id": 1
-        },
-        {
-          "name": "",
-          "age": "",
-          "address": "",
-          "department": "",
-          "salary": "",
-          "maritalstuus": "",
-          "id": 2
-        },
-        {
-          "id": 3
-        },
-        {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 6
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 7
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 8
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 9
-        },
-        {
-          "name": "tanu",
-          "age": "24",
-          "address": "24",
-          "department": "ac",
-          "id": 10
-        },
-        {
-          "name": "khushu",
-          "age": "23",
-          "address": "23",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 11
-        }
-      ],
-      "12": [
-        {
-          "id": 1
-        },
-        {
-          "name": "",
-          "age": "",
-          "address": "",
-          "department": "",
-          "salary": "",
-          "maritalstuus": "",
-          "id": 2
-        },
-        {
-          "id": 3
-        },
-        {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 6
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 7
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 8
-        },
-        {
-          "name": "swati",
-          "age": "26",
-          "address": "26",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 9
-        },
-        {
-          "name": "tanu",
-          "age": "24",
-          "address": "24",
-          "department": "ac",
-          "id": 10
-        },
-        {
-          "name": "khushu",
-          "age": "23",
-          "address": "23",
-          "department": "ac",
-          "maritalstuus": {
-            "married": "false",
-            "unmarried": "false"
-          },
-          "id": 11
-        },
-        [
-          {
-            "id": 1
-          },
-          {
-            "name": "",
-            "age": "",
-            "address": "",
-            "department": "",
-            "salary": "",
-            "maritalstuus": "",
-            "id": 2
-          },
-          {
-            "id": 3
-          },
-          {
-            "id": 4
-          },
-          {
-            "id": 5
-          },
-          {
-            "name": "swati",
-            "age": "26",
-            "address": "26",
-            "department": "ac",
-            "maritalstuus": {
-              "married": "false",
-              "unmarried": "false"
-            },
-            "id": 6
-          },
-          {
-            "name": "swati",
-            "age": "26",
-            "address": "26",
-            "department": "ac",
-            "maritalstuus": {
-              "married": "false",
-              "unmarried": "false"
-            },
-            "id": 7
-          },
-          {
-            "name": "swati",
-            "age": "26",
-            "address": "26",
-            "department": "ac",
-            "maritalstuus": {
-              "married": "false",
-              "unmarried": "false"
-            },
-            "id": 8
-          },
-          {
-            "name": "swati",
-            "age": "26",
-            "address": "26",
-            "department": "ac",
-            "maritalstuus": {
-              "married": "false",
-              "unmarried": "false"
-            },
-            "id": 9
-          },
-          {
-            "name": "tanu",
-            "age": "24",
-            "address": "24",
-            "department": "ac",
-            "id": 10
-          },
-          {
-            "name": "khushu",
-            "age": "23",
-            "address": "23",
-            "department": "ac",
-            "maritalstuus": {
-              "married": "false",
-              "unmarried": "false"
-            },
-            "id": 11
-          }
-        ]
-      ],
-      "name": "s",
-      "age": "",
-      "address": "",
-      "department": "",
-      "maritalstuus": {
-        "married": "false",
-        "unmarried": "false"
-      },
+      "name": "nikki",
+      "age": "25",
+      "email": "nkibersurda",
+      "department": "account",
+      "married": false,
+      "unmarried": false,
+      "id": 12
+    },
+    {
+      "name": "nikki",
+      "age": "25",
+      "email": "nkibersurda",
+      "department": "account",
+      "married": false,
+      "unmarried": false,
+      "id": 13
+    },
+    {
+      "name": "nikki",
+      "age": "25",
+      "email": "nkibersurda",
+      "department": "tech",
+      "married": false,
+      "unmarried": false,
       "id": 14
+    },
+    {
+      "name": "swati",
+      "age": "12",
+      "email": "swatibersurda@gmal.com",
+      "department": "",
+      "married": false,
+      "unmarried": false,
+      "maried": "married",
+      "id": 15
+    },
+    {
+      "name": "swati",
+      "age": "12",
+      "email": "swatibersurda@gmal.com",
+      "department": "",
+      "married": false,
+      "unmarried": false,
+      "maried": "married",
+      "id": 16
+    },
+    {
+      "name": "swati",
+      "age": "12",
+      "email": "swatibersurda@gmal.com",
+      "department": "",
+      "married": false,
+      "unmarried": false,
+      "maried": "married",
+      "id": 17
+    },
+    {
+      "name": "swati",
+      "age": "12",
+      "email": "swatibersurda@gmal.com",
+      "department": "",
+      "married": false,
+      "unmarried": false,
+      "maried": "married",
+      "id": 18
     }
   ]
 }

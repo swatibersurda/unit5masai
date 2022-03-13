@@ -27,6 +27,18 @@
 .App-link {
   color: #61dafb;
 }
+.xyz
+{
+  border: 1px solid green;
+}
+tr{
+  width: 19px;
+}
+td{
+  width: 1%;
+  height: 2%;
+  border: 1px solid grey;
+}
 
 @keyframes App-logo-spin {
   from {
