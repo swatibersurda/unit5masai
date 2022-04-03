@@ -1,0 +1,29 @@
+{
+    "products":
+    [
+    {
+        "name" : "SmartPhone",
+        "price": 30,
+        "id" : 0,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1KSmyDn4HtAYz4EP9pZTxlrGpJ82zVGGTA&usqp=CAU"
+    },
+    {
+        "name" : "Watch",
+        "price" : 20,
+        "id" : 1,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1KSmyDn4HtAYz4EP9pZTxlrGpJ82zVGGTA&usqp=CAU"
+    },
+    {
+        "name" : "Shirt",
+        "price" : 50,
+        "id" : 2,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1KSmyDn4HtAYz4EP9pZTxlrGpJ82zVGGTA&usqp=CAU"
+    },
+    {
+        "name" : "Pants",
+        "price" : 100,
+        "id" : 3,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1KSmyDn4HtAYz4EP9pZTxlrGpJ82zVGGTA&usqp=CAU"
+    }
+]
+}
